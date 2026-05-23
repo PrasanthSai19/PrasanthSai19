@@ -1,5 +1,5 @@
 <!-- Visitor Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+
 
 <h1 align="center">Hi, I'm G Poorna Prasanth Sai 👋</h1>
 
